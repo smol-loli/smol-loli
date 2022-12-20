@@ -2,6 +2,8 @@
 
 [![wakatime](https://wakatime.com/badge/user/cf42b183-0819-4213-a36e-c7fe2ff1831c.svg)](https://wakatime.com/@cf42b183-0819-4213-a36e-c7fe2ff1831c)
 
+<img align="center" src="https://github.com/smol-loli/metrics-smol-loli/github-metrics.svg" alt="Metrics" width="400">
+
 <!--
 **smol-loli/smol-loli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
