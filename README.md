@@ -2,7 +2,9 @@
 
 [![wakatime](https://wakatime.com/badge/user/cf42b183-0819-4213-a36e-c7fe2ff1831c.svg)](https://wakatime.com/@cf42b183-0819-4213-a36e-c7fe2ff1831c)
 
-<img align="center" src="/github-metrics.svg" alt="Metrics" width="400">
+![Metrics](https://metrics.lecoq.io/smol-loli?template=classic&base.indepth=true&isocalendar=1&languages=1&introduction=1&people=1&achievements=1&wakatime=1&fortune=1&lines=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=true&base.hireable=false&base.skip=false&isocalendar=false&isocalendar.duration=full-year&languages=false&languages.limit=8&languages.threshold=0%25&languages.other=false&languages.colors=github&languages.sections=most-used&languages.details=bytes-size%2C%20percentage&languages.indepth=false&languages.analysis.timeout=15&languages.analysis.timeout.repositories=7.5&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&lines=false&lines.sections=base&lines.repositories.limit=4&lines.history.limit=1&people=false&people.limit=20&people.identicons=false&people.identicons.hide=false&people.size=32&people.types=followers%2C%20following&people.shuffle=false&introduction=false&introduction.title=true&achievements=false&achievements.threshold=X&achievements.secrets=true&achievements.display=compact&achievements.limit=0&wakatime=false&wakatime.url=https%3A%2F%2Fwakatime.com&wakatime.user=current&wakatime.sections=time%2C%20projects%2C%20projects-graphs%2C%20languages%2C%20languages-graphs%2C%20editors%2C%20os&wakatime.days=7&wakatime.limit=5&wakatime.languages.other=false&wakatime.repositories.visibility=all&fortune=false&config.timezone=Europe%2FBerlin)
+
+<!-- <img align="center" src="/github-metrics.svg" alt="Metrics" width="400">
 
 <!--
 **smol-loli/smol-loli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
