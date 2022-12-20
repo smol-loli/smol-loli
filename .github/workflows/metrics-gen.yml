@@ -28,7 +28,7 @@ jobs:
           committer_branch: metrics-renders
           committer_message: "chore: update metrics"
           optimize: css, xml
-          use_prebuilt_image: yes
+          # use_prebuilt_image: yes
           
           # Options
           user: smol-loli
