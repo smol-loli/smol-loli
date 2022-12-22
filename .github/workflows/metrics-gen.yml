@@ -25,8 +25,8 @@ jobs:
           token: ${{ secrets.METRICS_TOKEN }}
 
           output_action: commit
-          committer_branch: metrics-renders
-          committer_message: "chore: update metrics"
+          committer_branch: main
+          committer_message: "[metrics] update metrics"
           optimize: css, xml
           # use_prebuilt_image: yes
           
